@@ -17,7 +17,7 @@ export default function RootLayout() {
       }}
     >
       <Stack.Screen 
-        name="home" 
+        name="index" 
         options={{ 
           title: 'Good Sleep',
           headerShown: false,
